@@ -6,15 +6,19 @@ window.addEventListener("load",() => {
 	let pokemons_Arr = []
 	
 	valorInput.onblur = function(){
-		valorInput.value = ""
+		this.value = ""
 	}
 	
-	valorInput.addEventListener("keyup", async  () => {
-		let quantidade = Number(valorInput.value)
+	
+
+	valorInput.addEventListener("keyup", () => {
+		quantidade = Number(valorInput.value)
 		if(isNaN(quantidade) || quantidade > 300){
 			alert("Digite um valor Válido");
 			valorInput.value = ""
 		}
+
+		
 
 
 		pokemons_Arr = []
