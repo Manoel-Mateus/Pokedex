@@ -1,4 +1,4 @@
-Olá meu nome é mateus, sou iniciante em programação então não espere nada de extraordiário, esse foi meu primeiro projeto <3.
+Olá meu nome é mateus, sou iniciante em programação então não espere nada de extraordinário, esse foi meu primeiro projeto <3.
 2 meses estudando js.
 Estou postando esse app para ver minha evolução daqui a 1 ou 2 anos estudando programação.
 (os grandes sucessos vem da liberdade de falhar)
