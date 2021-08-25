@@ -78,9 +78,6 @@ div.dados input::placeholder{
 
 /* ============ SECTION All POKEMONS ================== */
 
-section div#container-pokemons{
- 	/* background-color: yellow; */
-}
 
 div.pokemon-list{
 	display: flex;
